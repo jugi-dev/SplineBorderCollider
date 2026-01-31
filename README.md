@@ -14,5 +14,5 @@ Download zip and drop the folder into your Unity project. Create a border using 
 
 ## Screenshots
 
-![Screenshot1](https://github.com/jugi-dev/SplineBorderCollider/Screenshots/ss1.png)
-![Screenshot2](https://github.com/jugi-dev/SplineBorderCollider/Screenshots/ss2.png)
+![Screenshot1](Screenshots/ss1.png)
+![Screenshot2](Screenshots/ss2.png)
