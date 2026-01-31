@@ -11,3 +11,8 @@ Download zip and drop the folder into your Unity project. Create a border using 
 * Height customization
 * You can choose if you want to use the spline knots Y position or not
 * Visualization with both wire mesh and normal mesh.
+
+## Screenshots
+
+![Screenshot1](https://github.com/jugi-dev/SplineBorderCollider/Screenshots/ss1.png)
+![Screenshot2](https://github.com/jugi-dev/SplineBorderCollider/Screenshots/ss2.png)
