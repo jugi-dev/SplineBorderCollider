@@ -1,6 +1,6 @@
 # Spline Border Collider
 
-A tool to ease the creation of playable area borders in Unity. It automatically creates a plane mesh around the spline. Requires Splines package to be installed.
+A tool to ease the creation of playable area borders in Unity. It automatically creates a plane mesh following the spline. Requires Splines package to be installed.
 
 # Features
 
