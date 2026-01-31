@@ -8,6 +8,7 @@ Download zip and drop the folder into your Unity project. Create a border using 
 
 # Features
 
+* Updates in realtime
 * Height customization
 * You can choose if you want to use the spline knots Y position or not
 * Visualization with both wire mesh and normal mesh.
